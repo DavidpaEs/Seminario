@@ -4,6 +4,6 @@ public class Exercicio2 {
 		for(int i=1;i<=500;i++){
 			k=k+i;
 		}
-		System.out.println("A soma de 1 a 500 é: "+k);
+		System.out.println("A soma dos n. de 1 a 500 é: "+k);
 	}
 }
