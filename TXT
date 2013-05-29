@@ -1,2 +1,4 @@
-ALTERAÇÃO DE TEXTO.
+﻿ALTERAÇÃO DE TEXTO.
+
+texto alterado.
 
